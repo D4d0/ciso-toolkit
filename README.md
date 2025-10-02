@@ -1,6 +1,6 @@
-# ISO 27001/NIS2 Documentation Pack
+# CISO Toolkit
 
-A comprehensive, doc-as-code documentation repository for ISO 27001 and NIS2 compliance, structured around 14 core policies with supporting standards, procedures, and registers.
+A comprehensive security documentation framework for CISOs, featuring ISO 27001/NIS2 compliance, strategic documents, policies, and implementation guides. This toolkit provides everything a CISO needs to build and maintain a world-class security program.
 
 ## Overview
 
