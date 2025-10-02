@@ -1,0 +1,6 @@
+Log_Review_ID,Date,Reviewer,Log_Source,Event_Count,High_Severity,Medium_Severity,Low_Severity,Incidents_Identified,Escalations,Notes
+LOG-001,2024-01-01,John Smith,Firewall,150,2,15,133,1,1,Regular daily review
+LOG-002,2024-01-01,Jane Doe,Authentication,75,0,5,70,0,0,No incidents detected
+LOG-003,2024-01-01,Bob Johnson,Network,200,1,20,179,1,1,Network anomaly detected
+LOG-004,2024-01-02,John Smith,Firewall,180,3,18,159,2,2,Multiple high severity events
+LOG-005,2024-01-02,Jane Doe,Authentication,80,0,8,72,0,0,Standard authentication activity

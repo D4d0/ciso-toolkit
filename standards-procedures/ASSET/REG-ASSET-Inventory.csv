@@ -1,0 +1,6 @@
+Asset_ID,Name,Type,Classification,Owner,Location,Status,Last_Updated,Next_Review,Notes
+ASSET-001,Database Server,Hardware,Critical,IT Manager,Data Centre,Active,2024-01-01,2024-07-01,Primary database server
+ASSET-002,Email System,Software,High,IT Manager,Cloud,Active,2024-01-01,2024-07-01,Microsoft Exchange
+ASSET-003,Firewall,Hardware,High,Network Admin,Data Centre,Active,2024-01-01,2024-07-01,Network security device
+ASSET-004,Backup System,Hardware,Critical,Operations Manager,Data Centre,Active,2024-01-01,2024-07-01,Data backup system
+ASSET-005,User Workstations,Hardware,Medium,IT Support,Office,Active,2024-01-01,2024-07-01,Standard workstations

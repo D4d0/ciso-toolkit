@@ -1,0 +1,6 @@
+Training_ID,Employee_ID,Name,Department,Training_Type,Training_Date,Completion_Date,Score,Status,Instructor,Notes
+TRN-001,EMP-001,John Smith,IT,New Employee Orientation,2024-01-15,2024-01-15,95,Completed,Jane Doe,Excellent participation
+TRN-002,EMP-002,Jane Doe,HR,Annual Refresher,2024-01-20,2024-01-20,88,Completed,Bob Johnson,Good understanding
+TRN-003,EMP-003,Bob Johnson,Finance,Role-Specific,2024-01-25,2024-01-25,92,Completed,Alice Brown,Strong performance
+TRN-004,EMP-004,Alice Brown,Operations,Incident Response,2024-01-30,2024-01-30,90,Completed,Charlie Wilson,Ready for response
+TRN-005,EMP-005,Charlie Wilson,Management,Executive Training,2024-02-05,2024-02-05,94,Completed,Diana Lee,Leadership ready

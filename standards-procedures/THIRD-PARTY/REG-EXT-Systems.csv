@@ -1,0 +1,6 @@
+System_ID,Name,Type,Vendor,Classification,Data_Access,Contract_Status,Security_Assessment,Last_Review,Next_Review,Notes
+EXT-001,Microsoft Azure,Cloud Platform,Microsoft,High,Yes,Active,Completed,2024-01-01,2024-07-01,Primary cloud platform
+EXT-002,Salesforce CRM,Application,Salesforce,High,Yes,Active,Completed,2024-01-01,2024-07-01,Customer data management
+EXT-003,Slack,Communication,Slack,Medium,Yes,Active,Completed,2024-01-01,2024-07-01,Internal communication
+EXT-004,Office 365,Productivity,Microsoft,High,Yes,Active,Completed,2024-01-01,2024-07-01,Email and productivity
+EXT-005,ServiceNow,ITSM,ServiceNow,Medium,Yes,Active,Completed,2024-01-01,2024-07-01,IT service management

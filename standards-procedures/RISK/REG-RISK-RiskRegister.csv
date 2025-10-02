@@ -1,0 +1,6 @@
+Risk_ID,Asset,Threat,Vulnerability,Likelihood,Impact,Risk_Level,Owner,Status,Last_Updated,Next_Review,Notes
+RISK-001,Database Server,Malware Attack,Outdated Software,Medium,High,High,IT Manager,Active,2024-01-01,2024-07-01,Critical database server
+RISK-002,Email System,Phishing Attack,User Awareness,High,Medium,High,Security Team,Active,2024-01-01,2024-07-01,Regular phishing attempts
+RISK-003,Network Infrastructure,DDoS Attack,Insufficient Bandwidth,Low,High,Medium,Network Admin,Active,2024-01-01,2024-07-01,External network exposure
+RISK-004,Backup Systems,Data Loss,Hardware Failure,Medium,High,High,Operations Manager,Active,2024-01-01,2024-07-01,Critical backup systems
+RISK-005,Third Party Systems,Data Breach,Insufficient Controls,Medium,High,High,Procurement Manager,Active,2024-01-01,2024-07-01,External vendor access

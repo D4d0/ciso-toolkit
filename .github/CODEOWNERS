@@ -1,0 +1,30 @@
+# Global owners
+* @ciso @security-team
+
+# Strategic documents
+strategic-documents/ @ciso @ceo @board
+
+# Policy files
+policies/ @ciso @executive-sponsor
+
+# Standards and procedures by domain
+standards-procedures/GOV/ @ciso @governance-team
+standards-procedures/RISK/ @risk-manager @ciso
+standards-procedures/ASSET/ @asset-manager @data-protection-officer
+standards-procedures/THIRD-PARTY/ @procurement @legal-team
+standards-procedures/IAM/ @iam-lead @security-team
+standards-procedures/NET/ @network-admin @security-team
+standards-procedures/AWARENESS/ @hr-director @security-team
+standards-procedures/DATA-PROT/ @data-protection-officer @security-team
+standards-procedures/OPS/ @operations-manager @security-team
+standards-procedures/LOGMON/ @security-analyst @security-team
+standards-procedures/ENDPOINT/ @endpoint-admin @security-team
+standards-procedures/IR-BCM/ @incident-manager @business-continuity-manager
+
+# Matrices and templates
+matrices/ @ciso @compliance-team
+templates/ @ciso @documentation-team
+
+# Workflows
+workflows/ @devops-team @security-team
+.github/ @devops-team

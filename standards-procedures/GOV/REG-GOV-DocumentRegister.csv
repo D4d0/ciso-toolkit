@@ -1,0 +1,22 @@
+Document_ID,Title,Type,Owner,Approver,Version,Status,Effective_Date,Next_Review_Date,Last_Updated,Notes
+STRAT-01,Information Security Strategy,Strategy,CISO,CEO,0.1.0,Draft,TBC,TBC,2024-01-01,Initial draft
+STRAT-02,CISO Role and Responsibilities,Strategy,CISO,CEO,0.1.0,Draft,TBC,TBC,2024-01-01,Initial draft
+STRAT-03,Security Governance Framework,Strategy,CISO,CEO,0.1.0,Draft,TBC,TBC,2024-01-01,Initial draft
+STRAT-04,Security Investment Strategy,Strategy,CISO,CEO,0.1.0,Draft,TBC,TBC,2024-01-01,Initial draft
+POL-00,Document Control Policy,Policy,CISO,Executive Sponsor,0.1.0,Draft,TBC,TBC,2024-01-01,Initial draft
+POL-01,Information Security Policy,Policy,CISO,Executive Sponsor,0.1.0,Draft,TBC,TBC,2024-01-01,Initial draft
+POL-02,Risk Management Policy,Policy,Risk Manager,CISO,0.1.0,Draft,TBC,TBC,2024-01-01,Initial draft
+POL-03,Asset and Data Management Policy,Policy,Asset Manager,CISO,0.1.0,Draft,TBC,TBC,2024-01-01,Initial draft
+POL-04,Third Party and External Systems Policy,Policy,Procurement Manager,CISO,0.1.0,Draft,TBC,TBC,2024-01-01,Initial draft
+POL-05,Identity and Access Management Policy,Policy,IAM Lead,CISO,0.1.0,Draft,TBC,TBC,2024-01-01,Initial draft
+POL-06,Network Security Policy,Policy,Network Administrator,CISO,0.1.0,Draft,TBC,TBC,2024-01-01,Initial draft
+POL-07,Cryptography and Data Protection Policy,Policy,Data Protection Officer,CISO,0.1.0,Draft,TBC,TBC,2024-01-01,Initial draft
+POL-08,Operations Security Policy,Policy,Operations Manager,CISO,0.1.0,Draft,TBC,TBC,2024-01-01,Initial draft
+POL-09,Backup and Recovery Policy,Policy,Operations Manager,CISO,0.1.0,Draft,TBC,TBC,2024-01-01,Initial draft
+POL-10,Logging and Monitoring Policy,Policy,Security Analyst,CISO,0.1.0,Draft,TBC,TBC,2024-01-01,Initial draft
+POL-11,Endpoint Security Policy,Policy,Endpoint Administrator,CISO,0.1.0,Draft,TBC,TBC,2024-01-01,Initial draft
+POL-12,Security Awareness and HR Policy,Policy,HR Director,CISO,0.1.0,Draft,TBC,TBC,2024-01-01,Initial draft
+POL-13,Incident Response and Communications Policy,Policy,Incident Manager,CISO,0.1.0,Draft,TBC,TBC,2024-01-01,Initial draft
+POL-14,Business Continuity and DR Policy,Policy,Business Continuity Manager,CISO,0.1.0,Draft,TBC,TBC,2024-01-01,Initial draft
+STD-GOV-DocLifecycle,Document Lifecycle Standard,Standard,CISO,Executive Sponsor,0.1.0,Draft,TBC,TBC,2024-01-01,Initial draft
+PROC-GOV-DocumentRegister,Document Register Procedure,Procedure,CISO,Executive Sponsor,0.1.0,Draft,TBC,TBC,2024-01-01,Initial draft
