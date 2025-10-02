@@ -41,7 +41,6 @@ This repository implements a comprehensive **security documentation framework** 
 │   ├── LOGMON/                 # Logging & Monitoring
 │   ├── ENDPOINT/               # Endpoint Security
 │   └── IR-BCM/                 # Incident Response & Business Continuity
-├── matrices/                   # Control mappings and maturity assessments
 ├── templates/                  # Document templates
 ├── ciso-toolkit/              # CISO guidance and tools
 │   ├── guides/                # Getting started and implementation guides
