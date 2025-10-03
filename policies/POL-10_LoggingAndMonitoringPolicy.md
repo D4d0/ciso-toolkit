@@ -130,10 +130,10 @@ All exceptions must be documented and reviewed monthly.
 
 ## Supporting Standards and Procedures
 
-- **Logging Standards**: `standards-procedures/LOGMON/STD-LOG-SourcesAndFormats.md`
-- **Log Review Process**: `standards-procedures/LOGMON/PROC-LOG-ReviewAndEscalation.md`
-- **Security Log Activation**: `standards-procedures/LOGMON/PROC-LOG-SecurityLogActivation.md`
-- **Review Log**: `standards-procedures/LOGMON/REG-LOG-ReviewLog.csv`
+- **Logging Standards**: [standards-procedures/LOGMON/STD-LOG-SourcesAndFormats.md](../standards-procedures/LOGMON/STD-LOG-SourcesAndFormats.md)
+- **Log Review Process**: [standards-procedures/LOGMON/PROC-LOG-ReviewAndEscalation.md](../standards-procedures/LOGMON/PROC-LOG-ReviewAndEscalation.md)
+- **Security Log Activation**: [standards-procedures/LOGMON/PROC-LOG-SecurityLogActivation.md](../standards-procedures/LOGMON/PROC-LOG-SecurityLogActivation.md)
+- **Review Log**: [standards-procedures/LOGMON/REG-LOG-ReviewLog.csv](../standards-procedures/LOGMON/REG-LOG-ReviewLog.csv)
 
 ## Future KPIs (for L4+)
 - Log collection coverage: Target 100%

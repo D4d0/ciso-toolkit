@@ -31,7 +31,7 @@ This standard applies to:
 
 ## References
 
-- POL-11 Endpoint Security Policy
+- [POL-11 Endpoint Security Policy](../../policies/POL-11_EndpointSecurityPolicy.md)
 - NIS2 Directive (EU) 2022/2555
 - Internal endpoint security framework
 

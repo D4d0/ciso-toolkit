@@ -31,7 +31,7 @@ This standard applies to:
 
 ## References
 
-- POL-07 Cryptography and Data Protection Policy
+- [POL-07 Cryptography and Data Protection Policy](../../policies/POL-07_CryptographyAndDataProtectionPolicy.md)
 - NIS2 Directive (EU) 2022/2555
 - GDPR Article 32 (Security of processing)
 - FIPS 140-2 (Cryptographic Module Validation)

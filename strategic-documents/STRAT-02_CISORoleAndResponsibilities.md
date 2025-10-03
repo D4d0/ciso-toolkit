@@ -31,8 +31,8 @@ This document applies to:
 
 ## References
 
-- STRAT-01 Information Security Strategy
-- POL-01 Information Security Policy
+- [STRAT-01 Information Security Strategy](STRAT-01_InformationSecurityStrategy.md)
+- [POL-01 Information Security Policy](../policies/POL-01_InformationSecurityPolicy.md)
 - Board of Directors charter
 - Executive management structure
 

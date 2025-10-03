@@ -31,7 +31,7 @@ This policy applies to:
 
 ## References
 
-- POL-07 Cryptography and Data Protection Policy
+- [POL-07 Cryptography and Data Protection Policy](../../policies/POL-07_CryptographyAndDataProtectionPolicy.md)
 - GDPR Article 32 (Security of processing)
 - NIS2 Directive (EU) 2022/2555
 - Internal data classification standards

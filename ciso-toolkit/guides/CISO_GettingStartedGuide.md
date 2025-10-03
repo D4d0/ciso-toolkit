@@ -222,10 +222,10 @@ Congratulations on your new role as Chief Information Security Officer! This gui
 ## Resources and Templates
 
 ### Strategic Documents
-- Use `strategic-documents/STRAT-01_InformationSecurityStrategy.md`
-- Use `strategic-documents/STRAT-02_CISORoleAndResponsibilities.md`
-- Use `strategic-documents/STRAT-03_SecurityGovernanceFramework.md`
-- Use `strategic-documents/STRAT-04_SecurityInvestmentStrategy.md`
+- Use [strategic-documents/STRAT-01_InformationSecurityStrategy.md](../strategic-documents/STRAT-01_InformationSecurityStrategy.md)
+- Use [strategic-documents/STRAT-02_CISORoleAndResponsibilities.md](../strategic-documents/STRAT-02_CISORoleAndResponsibilities.md)
+- Use [strategic-documents/STRAT-03_SecurityGovernanceFramework.md](../strategic-documents/STRAT-03_SecurityGovernanceFramework.md)
+- Use [strategic-documents/STRAT-04_SecurityInvestmentStrategy.md](../strategic-documents/STRAT-04_SecurityInvestmentStrategy.md)
 
 ### Policy Templates
 - Use `policies/` folder for all security policies

@@ -130,8 +130,8 @@ All exceptions must be documented and reviewed quarterly.
 
 ## Supporting Standards and Procedures
 
-- **External Systems Register**: `standards-procedures/THIRD-PARTY/PROC-EXT-SystemsRegister.md`
-- **External Systems Data**: `standards-procedures/THIRD-PARTY/REG-EXT-Systems.csv`
+- **External Systems Register**: [standards-procedures/THIRD-PARTY/PROC-EXT-SystemsRegister.md](../standards-procedures/THIRD-PARTY/PROC-EXT-SystemsRegister.md)
+- **External Systems Data**: [standards-procedures/THIRD-PARTY/REG-EXT-Systems.csv](../standards-procedures/THIRD-PARTY/REG-EXT-Systems.csv)
 
 ## Future KPIs (for L4+)
 - Third-party risk assessment completion: Target 100%

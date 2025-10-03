@@ -30,8 +30,8 @@ This procedure applies to:
 
 ## References
 
-- POL-00 Document Control Policy
-- STD-GOV-DocLifecycle
+- [POL-00 Document Control Policy](../../policies/POL-00_DocumentControlPolicy.md)
+- [STD-GOV-DocLifecycle](STD-GOV-DocLifecycle.md)
 - Internal documentation framework
 
 ## Roles & RACI

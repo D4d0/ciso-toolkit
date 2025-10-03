@@ -130,9 +130,9 @@ All exceptions must be documented and reviewed quarterly.
 
 ## Supporting Standards and Procedures
 
-- **Backup Procedures**: `standards-procedures/OPS/PROC-OPS-Backups.md`
-- **Recovery Testing**: `standards-procedures/OPS/PROC-OPS-RestoreTests.md`
-- **Recovery Test Log**: `standards-procedures/OPS/REG-OPS-RestoreTests.csv`
+- **Backup Procedures**: [standards-procedures/OPS/PROC-OPS-Backups.md](../standards-procedures/OPS/PROC-OPS-Backups.md)
+- **Recovery Testing**: [standards-procedures/OPS/PROC-OPS-RestoreTests.md](../standards-procedures/OPS/PROC-OPS-RestoreTests.md)
+- **Recovery Test Log**: [standards-procedures/OPS/REG-OPS-RestoreTests.csv](../standards-procedures/OPS/REG-OPS-RestoreTests.csv)
 
 ## Future KPIs (for L4+)
 - Backup success rate: Target 99%

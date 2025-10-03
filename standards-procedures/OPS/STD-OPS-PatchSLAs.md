@@ -31,7 +31,7 @@ This standard applies to:
 
 ## References
 
-- POL-08 Operations Security Policy
+- [POL-08 Operations Security Policy](../../policies/POL-08_OperationsSecurityPolicy.md)
 - NIS2 Directive (EU) 2022/2555
 - Internal patch management framework
 

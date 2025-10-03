@@ -30,7 +30,7 @@ This standard applies to:
 
 ## References
 
-- POL-00 Document Control Policy
+- [POL-00 Document Control Policy](../policies/POL-00_DocumentControlPolicy.md)
 - ISO 27001:2022 Information Security Management Systems
 - Internal documentation framework
 

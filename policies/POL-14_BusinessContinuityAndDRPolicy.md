@@ -130,10 +130,10 @@ All exceptions must be documented and reviewed quarterly.
 
 ## Supporting Standards and Procedures
 
-- **Business Continuity Plan**: `standards-procedures/IR-BCM/POL-BCM-Continuity.md`
-- **Disaster Recovery Plan**: `standards-procedures/IR-BCM/PLAN-DR-DisasterRecovery.md`
-- **DR Testing Process**: `standards-procedures/IR-BCM/PROC-DR-Testing.md`
-- **DR Test Log**: `standards-procedures/IR-BCM/REG-DR-TestLog.csv`
+- **Business Continuity Plan**: [standards-procedures/IR-BCM/POL-BCM-Continuity.md](../standards-procedures/IR-BCM/POL-BCM-Continuity.md)
+- **Disaster Recovery Plan**: [standards-procedures/IR-BCM/PLAN-DR-DisasterRecovery.md](../standards-procedures/IR-BCM/PLAN-DR-DisasterRecovery.md)
+- **DR Testing Process**: [standards-procedures/IR-BCM/PROC-DR-Testing.md](../standards-procedures/IR-BCM/PROC-DR-Testing.md)
+- **DR Test Log**: [standards-procedures/IR-BCM/REG-DR-TestLog.csv](../standards-procedures/IR-BCM/REG-DR-TestLog.csv)
 
 ## Future KPIs (for L4+)
 - Business continuity plan coverage: Target 100%

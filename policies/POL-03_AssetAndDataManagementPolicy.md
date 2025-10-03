@@ -130,10 +130,10 @@ All exceptions must be documented and reviewed quarterly.
 
 ## Supporting Standards and Procedures
 
-- **Asset Inventory**: `standards-procedures/ASSET/PROC-ASSET-Inventory.md`
-- **Software Inventory**: `standards-procedures/ASSET/PROC-SW-Inventory.md`
-- **Data Classification**: `standards-procedures/ASSET/STD-DATA-Classification.md`
-- **Data Mapping**: `standards-procedures/ASSET/PROC-DATA-MappingAndFlows.md`
+- **Asset Inventory**: [standards-procedures/ASSET/PROC-ASSET-Inventory.md](../standards-procedures/ASSET/PROC-ASSET-Inventory.md)
+- **Software Inventory**: [standards-procedures/ASSET/PROC-SW-Inventory.md](../standards-procedures/ASSET/PROC-SW-Inventory.md)
+- **Data Classification**: [standards-procedures/ASSET/STD-DATA-Classification.md](../standards-procedures/ASSET/STD-DATA-Classification.md)
+- **Data Mapping**: [standards-procedures/ASSET/PROC-DATA-MappingAndFlows.md](../standards-procedures/ASSET/PROC-DATA-MappingAndFlows.md)
 
 ## Future KPIs (for L4+)
 - Asset inventory accuracy: Target 95%

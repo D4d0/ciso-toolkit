@@ -130,9 +130,9 @@ All exceptions must be documented and reviewed monthly.
 
 ## Supporting Standards and Procedures
 
-- **Firewall Standards**: `standards-procedures/NET/STD-NET-Firewall.md`
-- **Network Segmentation**: `standards-procedures/NET/STD-NET-Segmentation.md`
-- **Network Architecture**: `standards-procedures/NET/DOC-NET-Architecture.md`
+- **Firewall Standards**: [standards-procedures/NET/STD-NET-Firewall.md](../standards-procedures/NET/STD-NET-Firewall.md)
+- **Network Segmentation**: [standards-procedures/NET/STD-NET-Segmentation.md](../standards-procedures/NET/STD-NET-Segmentation.md)
+- **Network Architecture**: [standards-procedures/NET/DOC-NET-Architecture.md](../standards-procedures/NET/DOC-NET-Architecture.md)
 
 ## Future KPIs (for L4+)
 - Network security incident rate: Target <1% annually

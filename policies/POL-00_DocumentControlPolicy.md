@@ -128,9 +128,9 @@ All exceptions must be documented and reviewed within 30 days.
 
 ## Supporting Standards and Procedures
 
-- **Document Lifecycle**: `standards-procedures/GOV/STD-GOV-DocLifecycle.md`
-- **Document Register**: `standards-procedures/GOV/PROC-GOV-DocumentRegister.md`
-- **Register Data**: `standards-procedures/GOV/REG-GOV-DocumentRegister.csv`
+- **Document Lifecycle**: [standards-procedures/GOV/STD-GOV-DocLifecycle.md](../standards-procedures/GOV/STD-GOV-DocLifecycle.md)
+- **Document Register**: [standards-procedures/GOV/PROC-GOV-DocumentRegister.md](../standards-procedures/GOV/PROC-GOV-DocumentRegister.md)
+- **Register Data**: [standards-procedures/GOV/REG-GOV-DocumentRegister.csv](../standards-procedures/GOV/REG-GOV-DocumentRegister.csv)
 
 ## Future KPIs (for L4+)
 - Document review compliance rate: Target 95%

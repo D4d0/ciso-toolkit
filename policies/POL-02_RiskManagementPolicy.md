@@ -129,10 +129,10 @@ All exceptions must be documented and reviewed quarterly.
 
 ## Supporting Standards and Procedures
 
-- **Risk Methodology**: `standards-procedures/RISK/STD-RISK-Methodology.md`
-- **Risk Assessment**: `standards-procedures/RISK/PROC-RISK-Assessment.md`
-- **Risk Register**: `standards-procedures/RISK/REG-RISK-RiskRegister.csv`
-- **Treatment Register**: `standards-procedures/RISK/REG-RISK-TreatmentRegister.csv`
+- **Risk Methodology**: [standards-procedures/RISK/STD-RISK-Methodology.md](../standards-procedures/RISK/STD-RISK-Methodology.md)
+- **Risk Assessment**: [standards-procedures/RISK/PROC-RISK-Assessment.md](../standards-procedures/RISK/PROC-RISK-Assessment.md)
+- **Risk Register**: [standards-procedures/RISK/REG-RISK-RiskRegister.csv](../standards-procedures/RISK/REG-RISK-RiskRegister.csv)
+- **Treatment Register**: [standards-procedures/RISK/REG-RISK-TreatmentRegister.csv](../standards-procedures/RISK/REG-RISK-TreatmentRegister.csv)
 
 ## Future KPIs (for L4+)
 - Risk assessment completion rate: Target 100%

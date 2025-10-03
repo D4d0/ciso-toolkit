@@ -31,7 +31,7 @@ This standard applies to:
 
 ## References
 
-- POL-06 Network Security Policy
+- [POL-06 Network Security Policy](../../policies/POL-06_NetworkSecurityPolicy.md)
 - NIS2 Directive (EU) 2022/2555
 - Internal network architecture standards
 

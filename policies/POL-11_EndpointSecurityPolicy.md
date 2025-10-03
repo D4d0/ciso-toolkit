@@ -130,9 +130,9 @@ All exceptions must be documented and reviewed monthly.
 
 ## Supporting Standards and Procedures
 
-- **EDR Standards**: `standards-procedures/ENDPOINT/STD-EP-EDR.md`
-- **Anti-malware Standards**: `standards-procedures/ENDPOINT/STD-EP-AntiMalware.md`
-- **Alert Response**: `standards-procedures/ENDPOINT/PROC-EP-AlertResponse.md`
+- **EDR Standards**: [standards-procedures/ENDPOINT/STD-EP-EDR.md](../standards-procedures/ENDPOINT/STD-EP-EDR.md)
+- **Anti-malware Standards**: [standards-procedures/ENDPOINT/STD-EP-AntiMalware.md](../standards-procedures/ENDPOINT/STD-EP-AntiMalware.md)
+- **Alert Response**: [standards-procedures/ENDPOINT/PROC-EP-AlertResponse.md](../standards-procedures/ENDPOINT/PROC-EP-AlertResponse.md)
 
 ## Future KPIs (for L4+)
 - Endpoint protection coverage: Target 100%

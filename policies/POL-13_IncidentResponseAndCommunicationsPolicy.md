@@ -138,12 +138,12 @@ All exceptions must be documented and reviewed monthly.
 
 ## Supporting Standards and Procedures
 
-- **Incident Response Plan**: `standards-procedures/IR-BCM/PLAN-IR-IncidentResponse.md`
-- **Phishing Playbook**: `standards-procedures/IR-BCM/PLAYBOOK-IR-Phishing.md`
-- **Malware Playbook**: `standards-procedures/IR-BCM/PLAYBOOK-IR-Malware.md`
-- **Ransomware Playbook**: `standards-procedures/IR-BCM/PLAYBOOK-IR-Ransomware.md`
-- **Post-Incident Process**: `standards-procedures/IR-BCM/PROC-IR-PostIncident.md`
-- **Communication Plan**: `standards-procedures/IR-BCM/PLAN-COMMS-IncidentCommunication.md`
+- **Incident Response Plan**: [standards-procedures/IR-BCM/PLAN-IR-IncidentResponse.md](../standards-procedures/IR-BCM/PLAN-IR-IncidentResponse.md)
+- **Phishing Playbook**: [standards-procedures/IR-BCM/PLAYBOOK-IR-Phishing.md](../standards-procedures/IR-BCM/PLAYBOOK-IR-Phishing.md)
+- **Malware Playbook**: [standards-procedures/IR-BCM/PLAYBOOK-IR-Malware.md](../standards-procedures/IR-BCM/PLAYBOOK-IR-Malware.md)
+- **Ransomware Playbook**: [standards-procedures/IR-BCM/PLAYBOOK-IR-Ransomware.md](../standards-procedures/IR-BCM/PLAYBOOK-IR-Ransomware.md)
+- **Post-Incident Process**: [standards-procedures/IR-BCM/PROC-IR-PostIncident.md](../standards-procedures/IR-BCM/PROC-IR-PostIncident.md)
+- **Communication Plan**: [standards-procedures/IR-BCM/PLAN-COMMS-IncidentCommunication.md](../standards-procedures/IR-BCM/PLAN-COMMS-IncidentCommunication.md)
 
 ## Future KPIs (for L4+)
 - Incident detection time: Target 15 minutes

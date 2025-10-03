@@ -30,7 +30,7 @@ This standard applies to:
 
 ## References
 
-- POL-02 Risk Management Policy
+- [POL-02 Risk Management Policy](../../policies/POL-02_RiskManagementPolicy.md)
 - ISO 27001:2022 Information Security Management Systems
 - NIS2 Directive (EU) 2022/2555
 - Internal risk management framework

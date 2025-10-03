@@ -129,10 +129,10 @@ All exceptions must be documented, risk-assessed, and reviewed quarterly.
 
 ## Supporting Standards and Procedures
 
-- **Risk Management**: `standards-procedures/RISK/STD-RISK-Methodology.md`
-- **Asset Management**: `standards-procedures/ASSET/PROC-ASSET-Inventory.md`
-- **Access Control**: `standards-procedures/IAM/STD-IAM-PasswordMFA.md`
-- **Incident Response**: `standards-procedures/IR-BCM/PLAN-IR-IncidentResponse.md`
+- **Risk Management**: [standards-procedures/RISK/STD-RISK-Methodology.md](../standards-procedures/RISK/STD-RISK-Methodology.md)
+- **Asset Management**: [standards-procedures/ASSET/PROC-ASSET-Inventory.md](../standards-procedures/ASSET/PROC-ASSET-Inventory.md)
+- **Access Control**: [standards-procedures/IAM/STD-IAM-PasswordMFA.md](../standards-procedures/IAM/STD-IAM-PasswordMFA.md)
+- **Incident Response**: [standards-procedures/IR-BCM/PLAN-IR-IncidentResponse.md](../standards-procedures/IR-BCM/PLAN-IR-IncidentResponse.md)
 
 ## Future KPIs (for L4+)
 - Security incident reduction rate: Target 20% annually

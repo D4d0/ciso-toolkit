@@ -31,9 +31,9 @@ This framework applies to:
 
 ## References
 
-- STRAT-01 Information Security Strategy
-- STRAT-02 CISO Role and Responsibilities
-- POL-01 Information Security Policy
+- [STRAT-01 Information Security Strategy](STRAT-01_InformationSecurityStrategy.md)
+- [STRAT-02 CISO Role and Responsibilities](STRAT-02_CISORoleAndResponsibilities.md)
+- [POL-01 Information Security Policy](../policies/POL-01_InformationSecurityPolicy.md)
 - Board of Directors charter
 - Corporate governance framework
 

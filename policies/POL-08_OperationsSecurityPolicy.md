@@ -130,9 +130,9 @@ All exceptions must be documented and reviewed monthly.
 
 ## Supporting Standards and Procedures
 
-- **Patch Management**: `standards-procedures/OPS/POL-OPS-PatchManagement.md`
-- **Vulnerability Management**: `standards-procedures/OPS/POL-OPS-VulnerabilityManagement.md`
-- **Backup and Recovery**: `standards-procedures/OPS/POL-OPS-BackupRestore.md`
+- **Patch Management**: [standards-procedures/OPS/POL-OPS-PatchManagement.md](../standards-procedures/OPS/POL-OPS-PatchManagement.md)
+- **Vulnerability Management**: [standards-procedures/OPS/POL-OPS-VulnerabilityManagement.md](../standards-procedures/OPS/POL-OPS-VulnerabilityManagement.md)
+- **Backup and Recovery**: [standards-procedures/OPS/POL-OPS-BackupRestore.md](../standards-procedures/OPS/POL-OPS-BackupRestore.md)
 
 ## Future KPIs (for L4+)
 - Change success rate: Target 95%

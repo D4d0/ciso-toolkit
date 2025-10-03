@@ -30,7 +30,7 @@ This procedure applies to:
 
 ## References
 
-- POL-03 Asset and Data Management Policy
+- [POL-03 Asset and Data Management Policy](../../policies/POL-03_AssetAndDataManagementPolicy.md)
 - Internal asset management framework
 - Asset classification standards
 

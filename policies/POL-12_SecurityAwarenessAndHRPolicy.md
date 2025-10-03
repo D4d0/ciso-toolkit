@@ -131,8 +131,8 @@ All exceptions must be documented and reviewed quarterly.
 
 ## Supporting Standards and Procedures
 
-- **Annual Training Plan**: `standards-procedures/AWARENESS/PLAN-AWR-AnnualTraining.md`
-- **Training Register**: `standards-procedures/AWARENESS/REG-AWR-TrainingRegister.csv`
+- **Annual Training Plan**: [standards-procedures/AWARENESS/PLAN-AWR-AnnualTraining.md](../standards-procedures/AWARENESS/PLAN-AWR-AnnualTraining.md)
+- **Training Register**: [standards-procedures/AWARENESS/REG-AWR-TrainingRegister.csv](../standards-procedures/AWARENESS/REG-AWR-TrainingRegister.csv)
 
 ## Future KPIs (for L4+)
 - Security training completion rate: Target 100%

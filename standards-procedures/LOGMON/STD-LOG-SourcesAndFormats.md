@@ -31,7 +31,7 @@ This standard applies to:
 
 ## References
 
-- POL-10 Logging and Monitoring Policy
+- [POL-10 Logging and Monitoring Policy](../../policies/POL-10_LoggingAndMonitoringPolicy.md)
 - NIS2 Directive (EU) 2022/2555
 - Internal security monitoring framework
 

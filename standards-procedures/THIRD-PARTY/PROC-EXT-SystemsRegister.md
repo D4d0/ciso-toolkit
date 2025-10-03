@@ -31,7 +31,7 @@ This procedure applies to:
 
 ## References
 
-- POL-04 Third Party and External Systems Policy
+- [POL-04 Third Party and External Systems Policy](../../policies/POL-04_ThirdPartyAndExternalSystemsPolicy.md)
 - NIS2 Directive (EU) 2022/2555
 - GDPR Article 28 (Processor)
 - Internal vendor management procedures

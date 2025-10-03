@@ -30,7 +30,7 @@ This plan applies to:
 
 ## References
 
-- POL-13 Incident Response and Communications Policy
+- [POL-13 Incident Response and Communications Policy](../../policies/POL-13_IncidentResponseAndCommunicationsPolicy.md)
 - NIS2 Directive (EU) 2022/2555
 - Internal incident response framework
 

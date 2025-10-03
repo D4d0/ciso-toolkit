@@ -131,10 +131,10 @@ All exceptions must be documented and reviewed quarterly.
 
 ## Supporting Standards and Procedures
 
-- **Data at Rest Encryption**: `standards-procedures/DATA-PROT/POL-DATA-AtRestEncryption.md`
-- **Data in Transit Encryption**: `standards-procedures/DATA-PROT/POL-DATA-InTransitEncryption.md`
-- **Cryptographic Standards**: `standards-procedures/DATA-PROT/STD-CRYPTO-Standards.md`
-- **Media Sanitization**: `standards-procedures/DATA-PROT/STD-MEDIA-Sanitization.md`
+- **Data at Rest Encryption**: [standards-procedures/DATA-PROT/POL-DATA-AtRestEncryption.md](../standards-procedures/DATA-PROT/POL-DATA-AtRestEncryption.md)
+- **Data in Transit Encryption**: [standards-procedures/DATA-PROT/POL-DATA-InTransitEncryption.md](../standards-procedures/DATA-PROT/POL-DATA-InTransitEncryption.md)
+- **Cryptographic Standards**: [standards-procedures/DATA-PROT/STD-CRYPTO-Standards.md](../standards-procedures/DATA-PROT/STD-CRYPTO-Standards.md)
+- **Media Sanitization**: [standards-procedures/DATA-PROT/STD-MEDIA-Sanitization.md](../standards-procedures/DATA-PROT/STD-MEDIA-Sanitization.md)
 
 ## Future KPIs (for L4+)
 - Data encryption compliance: Target 100%

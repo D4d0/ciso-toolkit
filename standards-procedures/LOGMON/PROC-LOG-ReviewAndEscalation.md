@@ -31,8 +31,8 @@ This procedure applies to:
 
 ## References
 
-- POL-10 Logging and Monitoring Policy
-- STD-LOG-SourcesAndFormats
+- [POL-10 Logging and Monitoring Policy](../../policies/POL-10_LoggingAndMonitoringPolicy.md)
+- [STD-LOG-SourcesAndFormats](STD-LOG-SourcesAndFormats.md)
 - Incident response procedures
 - Security monitoring framework
 

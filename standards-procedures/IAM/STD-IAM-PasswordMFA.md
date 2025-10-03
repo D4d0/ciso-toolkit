@@ -30,7 +30,7 @@ This standard applies to:
 
 ## References
 
-- POL-05 Identity and Access Management Policy
+- [POL-05 Identity and Access Management Policy](../../policies/POL-05_IdentityAndAccessManagementPolicy.md)
 - NIS2 Directive (EU) 2022/2555
 - Internal authentication framework
 

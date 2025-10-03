@@ -31,9 +31,9 @@ This document applies to:
 
 ## References
 
-- POL-06 Network Security Policy
-- STD-NET-Firewall
-- STD-NET-Segmentation
+- [POL-06 Network Security Policy](../../policies/POL-06_NetworkSecurityPolicy.md)
+- [STD-NET-Firewall](STD-NET-Firewall.md)
+- [STD-NET-Segmentation](STD-NET-Segmentation.md)
 - NIS2 Directive (EU) 2022/2555
 
 ## Roles & RACI

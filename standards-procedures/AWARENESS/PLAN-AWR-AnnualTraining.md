@@ -31,7 +31,7 @@ This plan applies to:
 
 ## References
 
-- POL-12 Security Awareness and HR Policy
+- [POL-12 Security Awareness and HR Policy](../../policies/POL-12_SecurityAwarenessAndHRPolicy.md)
 - NIS2 Directive (EU) 2022/2555
 - GDPR training requirements
 - Internal HR policies and procedures

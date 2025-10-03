@@ -131,11 +131,11 @@ All exceptions must be documented and reviewed monthly.
 
 ## Supporting Standards and Procedures
 
-- **Password and MFA**: `standards-procedures/IAM/STD-IAM-PasswordMFA.md`
-- **User Provisioning**: `standards-procedures/IAM/PROC-IAM-ProvisioningDeprovisioning.md`
-- **Access Review**: `standards-procedures/IAM/PROC-IAM-AccessReview.md`
-- **Privileged Access**: `standards-procedures/IAM/PROC-IAM-AdminAccounts.md`
-- **Remote Access**: `standards-procedures/IAM/STD-REMOTE-VPN.md`
+- **Password and MFA**: [standards-procedures/IAM/STD-IAM-PasswordMFA.md](../standards-procedures/IAM/STD-IAM-PasswordMFA.md)
+- **User Provisioning**: [standards-procedures/IAM/PROC-IAM-ProvisioningDeprovisioning.md](../standards-procedures/IAM/PROC-IAM-ProvisioningDeprovisioning.md)
+- **Access Review**: [standards-procedures/IAM/PROC-IAM-AccessReview.md](../standards-procedures/IAM/PROC-IAM-AccessReview.md)
+- **Privileged Access**: [standards-procedures/IAM/PROC-IAM-AdminAccounts.md](../standards-procedures/IAM/PROC-IAM-AdminAccounts.md)
+- **Remote Access**: [standards-procedures/IAM/STD-REMOTE-VPN.md](../standards-procedures/IAM/STD-REMOTE-VPN.md)
 
 ## Future KPIs (for L4+)
 - Access review completion rate: Target 100%

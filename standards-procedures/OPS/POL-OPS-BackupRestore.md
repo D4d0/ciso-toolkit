@@ -31,7 +31,7 @@ This policy applies to:
 
 ## References
 
-- POL-09 Backup and Recovery Policy
+- [POL-09 Backup and Recovery Policy](../../policies/POL-09_BackupAndRecoveryPolicy.md)
 - NIS2 Directive (EU) 2022/2555
 - Business continuity requirements
 

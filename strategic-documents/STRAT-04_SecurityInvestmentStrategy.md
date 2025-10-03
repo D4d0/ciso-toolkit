@@ -31,8 +31,8 @@ This strategy applies to:
 
 ## References
 
-- STRAT-01 Information Security Strategy
-- STRAT-02 CISO Role and Responsibilities
+- [STRAT-01 Information Security Strategy](STRAT-01_InformationSecurityStrategy.md)
+- [STRAT-02 CISO Role and Responsibilities](STRAT-02_CISORoleAndResponsibilities.md)
 - Corporate investment framework
 - Risk appetite statement
 - Business strategy and objectives
